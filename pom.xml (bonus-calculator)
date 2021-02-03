@@ -5,13 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology</groupId>
-    <artifactId>bonus-calculator</artifactId>
+    <artifactId>Java-2.3-1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourseEncoding>UTF-8</project.build.sourseEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
 
     <dependencies>
